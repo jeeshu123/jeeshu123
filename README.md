@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jeeshan</h1>
-<h3 align="center">I'm a **full-stack developer** from **Sri Lanka**, with a strong passion for creating intuitive, user-friendly, and high-performance web applications. My expertise lies in modern **frontend technologies** like React, JavaScript, and Tailwind CSS, combined with robust backend solutions using Node.js, Express, and databases like MongoDB and SQL.</h3>
+# 💫 About Me:
 
-- 🔭 I’m currently working on [SportsPlus](https://github.com/jeeshu123/onfield)
+👨‍💻 Passionate Computer Science Student & Tech Enthusiast<br><br>👋 Hello There! I'm Jeeshan, a passionate computer science undergraduate with a knack for problem-solving and a love for exploring the vast realms of technology.<br><br>🎓 Currently diving deep into the world of computer science, I'm improving my skills in various areas including MERN stack (MongoDB, Express.js, React.js, Node.js), Java, JavaScript, Python, Flutter, Dart and more.<br><br>💻 Whether it's crafting robust web applications with MERN or exploring the power of AI and data analytics, I'm always eager to learn and push the boundaries of my knowledge.<br><br>💡 I enjoy tackling complex problems, optimizing performance, and building scalable solutions that enhance user experiences.<br><br>🚀 Let’s connect and collaborate on exciting projects! Together, let's build, innovate, and make a positive impact on the world through technology.
 
-- 🌱 I’m currently learning **MERN Stack, .NET**
 
-- 📫 How to reach me **jeeshanahmed585@gmail.com**
+## 🌐 Socials:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeshan-ahamed-33006520a/)
 
 <h3 align="left">Languages and Tools:</h3>
-<div display = "flex" gap = "20px" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a> 
