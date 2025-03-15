@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeeshan</h1>
 <h3 align="center">I'm a **full-stack developer** from **Sri Lanka**, with a strong passion for creating intuitive, user-friendly, and high-performance web applications. My expertise lies in modern **frontend technologies** like React, JavaScript, and Tailwind CSS, combined with robust backend solutions using Node.js, Express, and databases like MongoDB and SQL.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeshu123" alt="jeeshu123" /></a> </p>
-
 - 🔭 I’m currently working on [SportsPlus](https://github.com/jeeshu123/onfield)
 
 - 🌱 I’m currently learning **MERN Stack, .NET**
