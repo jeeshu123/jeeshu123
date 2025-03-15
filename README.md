@@ -7,7 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeshan-ahamed-33006520a/)
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -68,6 +69,11 @@
     </a> 
 </div>
 
+# 📊 GitHub Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeshu123&show_icons=true&locale=en&layout=compact" alt="jeeshu123" /></p>
+
+### ✍ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
