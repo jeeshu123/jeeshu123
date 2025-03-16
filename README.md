@@ -1,11 +1,13 @@
 # 💫 About Me:
 
-👨‍💻 Passionate Computer Science Student & Tech Enthusiast<br><br>👋 Hello There! I'm Jeeshan, a passionate computer science undergraduate with a knack for problem-solving and a love for exploring the vast realms of technology.<br><br>🎓 Currently diving deep into the world of computer science, I'm improving my skills in various areas including MERN stack (MongoDB, Express.js, React.js, Node.js), Java, JavaScript, Python, Flutter, Dart and more.<br><br>💻 Whether it's crafting robust web applications with MERN or exploring the power of AI and data analytics, I'm always eager to learn and push the boundaries of my knowledge.<br><br>💡 I enjoy tackling complex problems, optimizing performance, and building scalable solutions that enhance user experiences.<br><br>🚀 Let’s connect and collaborate on exciting projects! Together, let's build, innovate, and make a positive impact on the world through technology.
+👨‍💻 Passionate Computer Science Undergraduate & Tech Enthusiast<br><br>👋 Hello There! I'm Jeeshan, a passionate computer science undergraduate with a knack for problem-solving and a love for exploring the vast realms of technology.<br><br>🎓 Currently diving deep into the world of computer science, I'm improving my skills in various areas including MERN stack (MongoDB, Express.js, React.js, Node.js), Java, JavaScript, Python, Flutter, Dart and more.<br><br>💻 Whether it's crafting robust web applications with MERN or exploring the power of AI, I'm always eager to learn and push the boundaries of my knowledge.<br><br>💡 I enjoy tackling complex problems, optimizing performance, and building scalable solutions that enhance user experiences.<br><br>🚀 Let’s connect and collaborate on exciting projects! Together, let's build, innovate, and make a positive impact on the world through technology.
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeshan-ahamed-33006520a/)
+<a href="https://www.linkedin.com/in/jeeshan-ahamed-33006520a/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin: 15px;"/>
+</a>
 
 # 💻 Tech Stack:
 
